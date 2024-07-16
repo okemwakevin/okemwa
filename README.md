@@ -13,8 +13,7 @@ High-performing Data Analyst with over 7 years of experience in applied analytic
 
 ---
 
-
-<summary>Skills</summary>
+## Skills 
 
 ### Quantitative Skills
 - Strong background in Mathematics, Statistics, Calculus, and Predictive Analytics
@@ -35,10 +34,9 @@ High-performing Data Analyst with over 7 years of experience in applied analytic
 - Proficient in CRM tools including Salesforce
 - Experience managing version control using Git
 
+---
 
-
-<details>
-<summary>Experience</summary>
+## Experience
 
 ### National Construction Authority, Nairobi, Kenya
 **Research Officer**  
@@ -89,14 +87,14 @@ High-performing Data Analyst with over 7 years of experience in applied analytic
 - Facilitate training on Python, R, Advanced Excel, and Data Visualization.
 - Facilitate training on Advanced Data Analytics, Machine Learning, and Deep Learning.
 
-**Key Accomplishments:**
+--- 
+## **Key Accomplishments:**
 - Coached students on visualization tools including SAP BusinessObjects BI, Qlik Sense, and Tableau.
 - Trained 15 Custom Officers from the Kenya Revenue Authority on Business Intelligence with a focus on SAP BusinessObjects BI.
 
-</details>
+---
 
-<details>
-<summary>Education</summary>
+## Education
 
 **International University of Japan, Niigata, Japan**  
 Master of Arts in Economics  
@@ -109,9 +107,3 @@ Bachelor of Science in Actuarial Science
 Attained Second Class (Upper Division)  
 [dkut.ac.ke](https://www.dkut.ac.ke/)
 
-</details>
-
-<details>
-<summary>References</summary>
-Available upon request.
-</details>
