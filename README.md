@@ -13,7 +13,7 @@ High-performing Data Analyst with over 7 years of experience in applied analytic
 
 ---
 
-<details>
+
 <summary>Skills</summary>
 
 ### Quantitative Skills
@@ -35,7 +35,7 @@ High-performing Data Analyst with over 7 years of experience in applied analytic
 - Proficient in CRM tools including Salesforce
 - Experience managing version control using Git
 
-</details>
+
 
 <details>
 <summary>Experience</summary>
